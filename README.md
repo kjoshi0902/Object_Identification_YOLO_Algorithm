@@ -19,3 +19,5 @@ yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model f
 Installation
 pip install numpy
 pip install opencv-python
+# To Run the project
+python real_time_object_detection.py
